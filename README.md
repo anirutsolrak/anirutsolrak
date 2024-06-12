@@ -1,3 +1,18 @@
+<style>
+  body {
+    background-color: #282c34; /* Cor de fundo escura */
+    color: #fff; /* Cor de texto branca */
+  }
+
+  h1 {
+    color: #ff6347; /* Cor do título */
+  }
+
+ p {
+  color: #ff6347;
+ }
+</style>
+
 # Anirutsolrak 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/anirutsolrak?style=social)](https://github.com/anirutsolrak)
