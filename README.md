@@ -27,7 +27,7 @@ Meu objetivo é criar experiências digitais incríveis, que solucionem problema
 
 ## Projetos
 
-* **AluraBook** [![GitHub stars](https://img.shields.io/github/stars/anirutsolrak/alura-book?style=social)](https://github.com/anirutsolrak/alura-book)
+* **AluraBook** [![GitHub stars](https://img.shields.io/github/stars/anirutsolrak/alura-book?style=social)](https://github.com/anirutsolrak/AluraBook)
   * Um projeto pessoal que me permitiu aplicar meus conhecimentos em React e Node.js para construir um aplicativo web de gerenciamento de livros.
   * Acesse o projeto: [https://alura-book-lime-chi.vercel.app/](https://alura-book-lime-chi.vercel.app/)
 * **PortifolioV3** [![GitHub stars](https://img.shields.io/github/stars/anirutsolrak/portifolioV3?style=social)](https://github.com/anirutsolrak/portifolioV3)
