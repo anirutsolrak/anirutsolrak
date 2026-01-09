@@ -34,15 +34,15 @@
 *   **Formação Iniciante em Programação T6** – Oracle Next Education (ONE) / Alura (54h)
 
 ### 👥 Liderança, Gestão & Soft Skills (Tech Lead focus)
-*   **AAC - Gestão do Desempenho de Equipes** – Estácio
+*   **Gestão do Desempenho de Equipes** – Estácio
 *   **Empreendedorismo, Agilidade e Protagonismo na Carreira** – Alura / ONE (54h)
-*   **AAC - Comportamento Organizacional** – Estácio
-*   **AAC - Ética, Inclusão e Diversidade** – Estácio
+*   **Comportamento Organizacional** – Estácio
+*   **Ética, Inclusão e Diversidade** – Estácio
 *   **Desenvolvimento Pessoal T6** – Oracle Next Education (ONE) / Alura (38h)
 
 ### 📈 Business & Especialização
 *   **Lucro Sem Limite** – Universidade Divergente
-*   **AAC - Globalização e Avanços Tecnológicos** – Estácio
+*   **Globalização e Avanços Tecnológicos** – Estácio
 *   **Minha Carreira** – Alura (32h)
 
 ---
