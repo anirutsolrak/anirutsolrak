@@ -1,139 +1,162 @@
-# Carlos Eduardo Turina 👋
+<img width="1135" height="606" alt="{EE003059-DDFD-4822-9104-1B3F1FE07B5E}" src="https://github.com/user-attachments/assets/9dfaf8f4-bf0a-4c99-bc34-89a4f1b5a130" /><div align="center">
+  
+# Carlos Eduardo Turina 👨‍💻
+
+### Desenvolvedor Full-Stack Sênior | Tech Lead
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-turina)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511939621151)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/carloseduardoturina.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
 
-<img align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=anirutsolrak&show_icons=true&theme=tokyonight&hide_border=true"/>
+*Especialista em React, TypeScript e arquiteturas escaláveis. +5 anos transformando ideias em produtos digitais de alto impacto.*
 
-## 🚀 Desenvolvedor Full-Stack Sênior | Tech Lead
-
-Especialista em criar soluções escaláveis com foco em **automação**, **integrações omnichannel** e **arquiteturas multi-tenant**. Experiência liderando equipes e entregando sistemas que impactam milhares de usuários.
+</div>
 
 ---
 
-## 🏆 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### 💎 JoiaSaaS - Sistema Multi-tenant para Joalherias
+### 💎 JoiaSaaS - Plataforma Multi-tenant
+> Sistema completo de gestão para joalherias com arquitetura multi-tenant
 
-<a href="https://drive.google.com/file/d/1hFBiQWivJxo0ALgYfbFAqYia9R9RauD3/view">
-  <img src="https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Demo"/>
-</a>
+[![Ver Demo](https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1vxSj6szFE9UMZL7F9bNFmCpIvYGj0wAT/preview)
+[![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=flat-square)]()
 
-> Plataforma SaaS completa para gestão de joalherias
-- ✅ Arquitetura multi-tenant com isolamento de dados
-- ✅ Dashboard analytics em tempo real
-- ✅ Controle de estoque e vendas integrado
+**Tech:** React • TypeScript • Supabase • TailwindCSS
 
 ---
 
 ### 📊 Sistema de Metas e Avaliações com IA
+> Gestão de performance para +500 franquias com análise inteligente
 
-<a href="https://drive.google.com/file/d/1rLxhfNTqpiSLt8k7LnFpKuCS1hkBbgHr/view">
-  <img src="https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Demo"/>
-</a>
+[![Ver Demo](https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1hbDpbW2KWJq-K3WR0v1ldGHQDBvZD8dg/preview)
+[![Franquias](https://img.shields.io/badge/Franquias-500+-blue?style=flat-square)]()
 
-> Plataforma inteligente para +500 franquias
-- ✅ Avaliação de performance com IA
-- ✅ Gestão de metas e KPIs automatizada
-- ✅ Relatórios e dashboards personalizados
+**Tech:** React • Node.js • PostgreSQL • OpenAI API
 
 ---
 
 ### 📱 Sistema de Disparo Omnichannel
+> Plataforma de comunicação multi-canal (WhatsApp, SMS, Email)
 
-<a href="https://drive.google.com/file/d/1GiJOIkS44KzE9FwDaFrWlSahsjNj8X7i/view">
-  <img src="https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Demo"/>
-</a>
+[![Ver Demo](https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1x9E0mEyozB_bPsmSx-5O7xEVa-sHPuRL/preview)
+[![Canais](https://img.shields.io/badge/Canais-WhatsApp_|_SMS_|_Email-green?style=flat-square)]()
 
-> Automação de comunicação multi-plataforma
-- ✅ Integração WhatsApp Business API
-- ✅ Disparos em massa segmentados
-- ✅ Analytics de engajamento em tempo real
+**Tech:** React • Python • PostgreSQL • APIs de Mensageria
 
 ---
 
 ### 🖥️ ExtraHub - Automação Desktop
-> Ferramenta de automação para produtividade empresarial
-- ✅ Automação de tarefas repetitivas
-- ✅ Integração com sistemas legados
-- ✅ Interface intuitiva e leve
+> Plataforma de automação para processos empresariais
+
+[![Status](https://img.shields.io/badge/Status-Produção-success?style=flat-square)]()
+
+**Tech:** Python • PyAutoGUI • Electron
 
 ---
 
-### 📰 Observatório Político
-> Dashboard de monitoramento e análise política
-- ✅ Agregação de notícias em tempo real
-- ✅ Análise de sentimento com NLP
-- ✅ Visualização de dados interativa
+### 🏛️ Observatório Político
+> Dashboard de análise política e transparência pública
+
+[![Status](https://img.shields.io/badge/Status-Produção-success?style=flat-square)]()
+
+**Tech:** React • D3.js • APIs Governamentais
+
+---
+
+## 🎓 Certificações & Cursos
+
+<div align="center">
+
+| Certificação | Instituição | Ano |
+|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/React_Avançado-61DAFB?style=flat-square&logo=react&logoColor=black) | Rocketseat | 2024 |
+| ![TypeScript](https://img.shields.io/badge/TypeScript_Expert-3178C6?style=flat-square&logo=typescript&logoColor=white) | Udemy | 2024 |
+| ![Node](https://img.shields.io/badge/Node.js_Completo-339933?style=flat-square&logo=node.js&logoColor=white) | Alura | 2023 |
+| ![Python](https://img.shields.io/badge/Python_para_Data_Science-3776AB?style=flat-square&logo=python&logoColor=white) | Coursera | 2023 |
+| ![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | AWS | 2023 |
+| ![Scrum](https://img.shields.io/badge/Scrum_Fundamentals-009FDA?style=flat-square&logo=scrumalliance&logoColor=white) | ScrumStudy | 2022 |
+
+</div>
+
+### 📚 Formações Complementares
+
+- 🎯 **Ignite - Trilha React** - Rocketseat (2024)
+- 🐍 **Automação com Python** - Hashtag Treinamentos (2023)
+- 🗄️ **PostgreSQL do Básico ao Avançado** - Udemy (2023)
+- 🎨 **UI/UX Design Fundamentals** - Origamid (2022)
+- 📊 **Power BI para Análise de Dados** - Alura (2022)
 
 ---
 
 ## 💼 Experiência Profissional
 
-**Tech Lead** @ Empresa Atual *(2022 - Presente)*
-- 🎯 Liderança técnica de equipe multidisciplinar
-- 🏗️ Arquitetura de soluções escaláveis e multi-tenant
-- 📈 Implementação de metodologias ágeis
+### Tech Lead | Desenvolvedor Full-Stack Sênior
+*2019 - Presente*
 
-**Desenvolvedor Full-Stack Sênior** @ Experiências Anteriores
-- 🏪 +500 franquias atendidas com sistema de metas
-- ⚡ Automação de processos empresariais
-- 🔗 Integrações omnichannel (WhatsApp, Telegram, Email)
+✅ Liderança técnica de equipes de desenvolvimento  
+✅ Arquitetura de sistemas escaláveis e multi-tenant  
+✅ Implementação de soluções com IA para análise de dados  
+✅ Automação de processos empresariais  
+✅ Mentoria e code review  
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anirutsolrak&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirutsolrak&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirutsolrak&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-## 📫 Vamos Conversar?
+## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anirutsolrak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirutsolrak&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirutsolrak&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 💬 Vamos Conversar?
+
+<div align="center">
+
+Estou sempre aberto a novos projetos e oportunidades de colaboração!
+
+[![WhatsApp](https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511939621151?text=Olá%20Carlos!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar.)
+[![Email](https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloseduardoturina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Conectar_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-turina)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anirutsolrak&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile views"/>
   
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511939621151?text=Olá%20Carlos!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar.)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloseduardoturina@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-turina)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anirutsolrak&color=blueviolet&style=for-the-badge"/>
-</div>
-
-<div align="center">
-  <sub>⚡ Transformando ideias em código de alta performance</sub>
+  ⭐ **Obrigado por visitar!** Se gostou, deixe uma estrela nos repositórios!
 </div>
