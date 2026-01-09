@@ -13,17 +13,74 @@ Especialista em criar soluções escaláveis com foco em **automação**, **inte
 
 ---
 
+## 🏆 Projetos em Destaque
+
+### 💎 JoiaSaaS - Sistema Multi-tenant para Joalherias
+
+<a href="https://drive.google.com/file/d/1hFBiQWivJxo0ALgYfbFAqYia9R9RauD3/view">
+  <img src="https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Demo"/>
+</a>
+
+> Plataforma SaaS completa para gestão de joalherias
+- ✅ Arquitetura multi-tenant com isolamento de dados
+- ✅ Dashboard analytics em tempo real
+- ✅ Controle de estoque e vendas integrado
+
+---
+
+### 📊 Sistema de Metas e Avaliações com IA
+
+<a href="https://drive.google.com/file/d/1rLxhfNTqpiSLt8k7LnFpKuCS1hkBbgHr/view">
+  <img src="https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Demo"/>
+</a>
+
+> Plataforma inteligente para +500 franquias
+- ✅ Avaliação de performance com IA
+- ✅ Gestão de metas e KPIs automatizada
+- ✅ Relatórios e dashboards personalizados
+
+---
+
+### 📱 Sistema de Disparo Omnichannel
+
+<a href="https://drive.google.com/file/d/1GiJOIkS44KzE9FwDaFrWlSahsjNj8X7i/view">
+  <img src="https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Demo"/>
+</a>
+
+> Automação de comunicação multi-plataforma
+- ✅ Integração WhatsApp Business API
+- ✅ Disparos em massa segmentados
+- ✅ Analytics de engajamento em tempo real
+
+---
+
+### 🖥️ ExtraHub - Automação Desktop
+> Ferramenta de automação para produtividade empresarial
+- ✅ Automação de tarefas repetitivas
+- ✅ Integração com sistemas legados
+- ✅ Interface intuitiva e leve
+
+---
+
+### 📰 Observatório Político
+> Dashboard de monitoramento e análise política
+- ✅ Agregação de notícias em tempo real
+- ✅ Análise de sentimento com NLP
+- ✅ Visualização de dados interativa
+
+---
+
 ## 💼 Experiência Profissional
 
 **Tech Lead** @ Empresa Atual *(2022 - Presente)*
-- Liderança técnica de equipe multidisciplinar
-- Arquitetura de soluções escaláveis e multi-tenant
-- Implementação de metodologias ágeis
+- 🎯 Liderança técnica de equipe multidisciplinar
+- 🏗️ Arquitetura de soluções escaláveis e multi-tenant
+- 📈 Implementação de metodologias ágeis
 
 **Desenvolvedor Full-Stack Sênior** @ Experiências Anteriores
-- +500 franquias atendidas com sistema de metas e avaliações
-- Automação de processos empresariais
-- Integrações com WhatsApp, Telegram e plataformas omnichannel
+- 🏪 +500 franquias atendidas com sistema de metas
+- ⚡ Automação de processos empresariais
+- 🔗 Integrações omnichannel (WhatsApp, Telegram, Email)
 
 ---
 
@@ -45,40 +102,6 @@ Especialista em criar soluções escaláveis com foco em **automação**, **inte
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 🏆 Projetos em Destaque
-
-### 💎 JoiaSaaS
-> Sistema multi-tenant para gestão de joalherias
-- Arquitetura SaaS escalável
-- Multi-tenancy com isolamento de dados
-- Dashboard analytics em tempo real
-
-### 📊 Sistema de Metas e Avaliações
-> Plataforma com IA para +500 franquias
-- Avaliação de performance com IA
-- Gestão de metas e KPIs
-- Relatórios automatizados
-
-### 📱 Sistema de Disparo Omnichannel
-> Automação de comunicação multi-plataforma
-- Integração WhatsApp Business API
-- Disparos em massa segmentados
-- Analytics de engajamento
-
-### 🖥️ ExtraHub
-> Automação desktop para produtividade
-- Automação de tarefas repetitivas
-- Integração com sistemas legados
-- Interface intuitiva
-
-### 📰 Observatório Político
-> Dashboard de monitoramento político
-- Agregação de notícias em tempo real
-- Análise de sentimento
-- Visualização de dados
 
 ---
 
