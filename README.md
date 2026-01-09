@@ -23,10 +23,8 @@
 ### 💎 JoiaSaaS - Plataforma Multi-tenant
 > Sistema completo de gestão para joalherias com arquitetura multi-tenant
 
-<a href="https://drive.google.com/file/d/1hFBiQWivJxo0ALgYfbFAqYia9R9RauD3/view" target="_blank">
-  <img src="https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Demo"/>
-</a>
-<img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=flat-square" alt="Status"/>
+[![Ver Demo](https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1hFBiQWivJxo0ALgYfbFAqYia9R9RauD3/view)  
+<sub>*(O vídeo abrirá em uma nova aba ↗️)*</sub>
 
 **Tech:** React • TypeScript • Supabase • TailwindCSS
 
@@ -35,10 +33,8 @@
 ### 📊 Sistema de Metas e Avaliações com IA
 > Gestão de performance para +500 franquias com análise inteligente
 
-<a href="https://drive.google.com/file/d/1rLxhfNTqpiSLt8k7LnFpKuCS1hkBbgHr/view" target="_blank">
-  <img src="https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Demo"/>
-</a>
-<img src="https://img.shields.io/badge/Franquias-500+-blue?style=flat-square" alt="Franquias"/>
+[![Ver Demo](https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1rLxhfNTqpiSLt8k7LnFpKuCS1hkBbgHr/view)  
+<sub>*(O vídeo abrirá em uma nova aba ↗️)*</sub>
 
 **Tech:** React • Node.js • PostgreSQL • OpenAI API
 
@@ -47,10 +43,8 @@
 ### 📱 Sistema de Disparo Omnichannel
 > Plataforma de comunicação multi-canal (WhatsApp, SMS, Email)
 
-<a href="https://drive.google.com/file/d/1GiJOIkS44KzE9FwDaFrWlSahsjNj8X7i/view" target="_blank">
-  <img src="https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Demo"/>
-</a>
-<img src="https://img.shields.io/badge/Canais-WhatsApp_|_SMS_|_Email-green?style=flat-square" alt="Canais"/>
+[![Ver Demo](https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1GiJOIkS44KzE9FwDaFrWlSahsjNj8X7i/view)  
+<sub>*(O vídeo abrirá em uma nova aba ↗️)*</sub>
 
 **Tech:** React • Python • PostgreSQL • APIs de Mensageria
 
