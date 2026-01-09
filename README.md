@@ -1,4 +1,4 @@
-<img width="1135" height="606" alt="{EE003059-DDFD-4822-9104-1B3F1FE07B5E}" src="https://github.com/user-attachments/assets/9dfaf8f4-bf0a-4c99-bc34-89a4f1b5a130" /><div align="center">
+<div align="center">
   
 # Carlos Eduardo Turina 👨‍💻
 
