@@ -23,7 +23,7 @@
 ### 💎 JoiaSaaS - Plataforma Multi-tenant
 > Sistema completo de gestão para joalherias com arquitetura multi-tenant
 
-<a href="https://drive.google.com/file/d/1vxSj6szFE9UMZL7F9bNFmCpIvYGj0wAT/view" target="_blank">
+<a href="https://drive.google.com/file/d/1hFBiQWivJxo0ALgYfbFAqYia9R9RauD3/view" target="_blank">
   <img src="https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Demo"/>
 </a>
 <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=flat-square" alt="Status"/>
@@ -35,7 +35,7 @@
 ### 📊 Sistema de Metas e Avaliações com IA
 > Gestão de performance para +500 franquias com análise inteligente
 
-<a href="https://drive.google.com/file/d/1hbDpbW2KWJq-K3WR0v1ldGHQDBvZD8dg/view" target="_blank">
+<a href="https://drive.google.com/file/d/1rLxhfNTqpiSLt8k7LnFpKuCS1hkBbgHr/view" target="_blank">
   <img src="https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Demo"/>
 </a>
 <img src="https://img.shields.io/badge/Franquias-500+-blue?style=flat-square" alt="Franquias"/>
@@ -47,7 +47,7 @@
 ### 📱 Sistema de Disparo Omnichannel
 > Plataforma de comunicação multi-canal (WhatsApp, SMS, Email)
 
-<a href="https://drive.google.com/file/d/1x9E0mEyozB_bPsmSx-5O7xEVa-sHPuRL/view" target="_blank">
+<a href="https://drive.google.com/file/d/1GiJOIkS44KzE9FwDaFrWlSahsjNj8X7i/view" target="_blank">
   <img src="https://img.shields.io/badge/▶_Ver_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver Demo"/>
 </a>
 <img src="https://img.shields.io/badge/Canais-WhatsApp_|_SMS_|_Email-green?style=flat-square" alt="Canais"/>
@@ -70,7 +70,7 @@
 </div>
 
 ### 📚 Formações Complementares
-- 🎯 **Ignite React** (Rocketseat) • **Automação com Python** (Hashtag) • **UI/UX Design** (Origamid)
+- 🎯 **Ignite React** (Rocketseat) • **Automação com Python** (Hashtag) • **UI/UX Design** (Origamid) • **PostgreSQL** (Udemy)
 
 ---
 
