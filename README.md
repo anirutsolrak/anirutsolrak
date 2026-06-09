@@ -1,12 +1,12 @@
 <h1 align="center">
 
-Olá! <a><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif" width="30px" alt="gif"></a> meu nome é Carlos Eduardo Turina
+Olá! <a href="#"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/refs/heads/master/Assets/Hi.gif" width="30px" alt="gif"></a> meu nome é Carlos Eduardo Turina
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=6000&pause=1000&color=167EE4&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack!;Especialista+em+SaaS+e+Automa%C3%A7%C3%B5es!;Integra%C3%A7%C3%A3o+de+IA+(LLMs);Arquitetura+de+Ecossistemas+Escal%C3%A1veis)](https://linkedin.com/in/carlos-turina-dev)
 
 </h1>
 
-<a><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150px" alt="gif"></a>
+<a href="#"><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150px" alt="gif"></a>
 
 <p align="justify">Desenvolvedor Full-Stack com sólida atuação na arquitetura e desenvolvimento de ecossistemas escaláveis. Especialista em converter processos operacionais complexos em soluções digitais de alta performance utilizando React, Node.js e Python. Histórico comprovado em liderança técnica, integração de APIs críticas e implementação de RPA com foco em redução de custo operacional e eficiência em larga escala.</p>
 
@@ -61,14 +61,14 @@ Olá! <a><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThat
 
 **Desenvolvimento Técnico (Core Stack)**
 
-<a><img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,py,cs,postgres,supabase,html,css&perline=4" /></a>
+<a href="#stack-tecnológica"><img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,py,cs,postgres,supabase,html,css&perline=4" /></a>
 
 </td>
 <td align="center" width="50%">
 
 **Ecossistema ERP, Cloud & Ferramentas**
 
-<a><img src="https://skillicons.dev/icons?i=docker,gcp,aws,git,github,tailwind,framer,postman,linux,electron&perline=4" /></a>
+<a href="#stack-tecnológica"><img src="https://skillicons.dev/icons?i=docker,gcp,aws,git,github,tailwind,framer,postman,linux,electron&perline=4" /></a>
 
 </td>
 </tr>
@@ -101,7 +101,7 @@ Olá! <a><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThat
 
 ---
 
-## 📫 Vamos Conversar? <a><img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/refs/heads/master/Assets/Handshake.gif" height="33px" alt="gif"/></a>
+## 📫 Vamos Conversar? <a href="#vamos-conversar"><img align="center" src="https://raw.githubusercontent.com/rajput2107/rajput2107/refs/heads/master/Assets/Handshake.gif" height="33px" alt="gif"/></a>
 
 <div align="center">
 
@@ -112,6 +112,6 @@ Olá! <a><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThat
 
 <br/>
 
-<a><img src="https://komarev.com/ghpvc/?username=anirutsolrak&color=blueviolet&style=flat-square&label=VISITANTES" alt="Profile views"/></a>
+<a href="#vamos-conversar"><img src="https://komarev.com/ghpvc/?username=anirutsolrak&color=blueviolet&style=flat-square&label=VISITANTES" alt="Profile views"/></a>
 
 </div>
