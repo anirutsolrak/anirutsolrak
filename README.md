@@ -8,7 +8,7 @@ Olá! <a href="#"><img src="https://raw.githubusercontent.com/TheDudeThatCode/Th
 
 <a href="#"><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150px" alt="gif"></a>
 
-<p align="justify">Desenvolvedor Full-Stack com sólida atuação na arquitetura e desenvolvimento de ecossistemas escaláveis. Especialista em converter processos operacionais complexos em soluções digitais de alta performance utilizando React, Node.js e Python. Histórico comprovado em liderança técnica, integração de APIs críticas e implementação de RPA com foco em redução de custo operacional e eficiência em larga escala.</p>
+<p align="justify">Desenvolvedor Full-Stack com sólida atuação na arquitetura e desenvolvimento de ecossistemas escaláveis. Especialista em converter processos operacionais complexos em soluções digitais de alta performance utilizando React, Node.js e Python. Histórico comprovado em liderança técnica, integração de APIs críticas e implementação de Robotic Process Automation com foco em redução de custo operacional e eficiência em larga escala.</p>
 
 - 🛠️ **Core Stack:** React.js, Next.js, Node.js, Python, C# (.NET) e PostgreSQL.
 - 🧠 **Especialidades:** Integração de IA (LLMs), automação de APIs (Mensageria/Pagamentos) e dashboards analíticos.
@@ -20,7 +20,7 @@ Olá! <a href="#"><img src="https://raw.githubusercontent.com/TheDudeThatCode/Th
 
 <div align="center">
 
-| 🏢 **Escalabilidade** | 📈 **Eficiência** | 🛡️ **Disponibilidade** | ⚙️ **Automação (RPA)** |
+| 🏢 **Escalabilidade** | 📈 **Eficiência** | 🛡️ **Disponibilidade** | ⚙️ **Robotic Process Automation** |
 | :---: | :---: | :---: | :---: |
 | +570 unidades integradas | -40% de carga operacional manual | Redução de bugs críticos em minutos | Eliminação de processos manuais via IA |
 
@@ -86,9 +86,9 @@ Olá! <a href="#"><img src="https://raw.githubusercontent.com/TheDudeThatCode/Th
 - **Cresci e Perdi Franchising** | *Desenvolvedor Full Stack & DevOps* — `Ago 2025 – Jan 2026`
   - Otimização e arquitetura de dados em tempo real para dashboards de performance de uma rede de 570 unidades franqueadas.
   - Implementação de workflows de CI/CD via GitHub Actions e infraestrutura isolada no GCP com Docker.
-- **Capital Consig** | *Analista de Dados & Líder Técnico (Projeto MSI)* — `Set 2024 – Out 2025`
+- **Capital Consig** | *Analista de Dados & Líder Técnico (Projeto MSI)* — `Set 2024 – Jul 2025`
   - Liderança técnica na concepção do ecossistema centralizador de dados estratégicos, coordenando equipe multidisciplinar de 6 colaboradores.
-  - Desenvolvimento de RPAs end-to-end com Python e migração de sistemas legados para Electron (Desktop).
+  - Desenvolvimento de Robotic Process Automation end-to-end com Python e migração de sistemas legados para Electron (Desktop).
 - **Autônomo** | *Desenvolvedor Full-Stack Freelancer* — `Jan 2021 – Presente`
   - Desenvolvimento de plataformas SaaS sob medida com integrações de pagamento e mensageria. 15+ projetos entregues.
 
@@ -96,7 +96,7 @@ Olá! <a href="#"><img src="https://raw.githubusercontent.com/TheDudeThatCode/Th
 
 ## 🎓 Formação Acadêmica & Certificações
 
-* **Graduação em Sistemas de Informação** – Estácio (Em curso)
+* **Graduação em Sistemas de Informação** – Estácio (trancado)
 * **Formações Profissionais Expandidas:** Desenvolvimento React (81h), Front End (82h), Iniciante em Programação (54h) pela Alura/ONE. Certificações corporativas em Gestão de Desempenho de Equipes, Comportamento Organizacional e Agilidade.
 
 ---
