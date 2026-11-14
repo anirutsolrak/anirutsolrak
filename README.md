@@ -38,12 +38,24 @@ Olá! <a href="#"><img src="https://raw.githubusercontent.com/TheDudeThatCode/Th
 - **Tecnologias:** C# .NET 8, Worker Service, REST APIs, OAuth2, mTLS, Serilog, Polly.
 
 ### 🤖 Automação de Atas de Assembleia com Inteligência Artificial
-> Sistema end-to-end em Python que realiza web scraping, consome APIs de modelos de linguagem de ponta (OpenAI o3 e Google Gemini) e serviços de rede (SMB/SMTP) para gerar automaticamente atas jurídicas complexas a partir de transcrições de áudio. Reduziu horas de trabalho manual para minutos em um pipeline agendado via Cron em VPS Linux.
-- **Tecnologias:** Python, Selenium, OpenAI API, Google Gemini API, Linux, SMTP/SMB.
+> Sistema end-to-end em Python que lê o edital da assembleia, busca a transcrição da reunião, consome APIs de modelos de linguagem (OpenAI o3 e Google Gemini) e serviços de rede (VPN/SMB/SMTP) para gerar automaticamente atas jurídicas complexas. Reduziu horas de trabalho manual para minutos em um pipeline agendado via Cron em VPS Linux.
+- **Tecnologias:** Python, python-docx, OpenAI API, Google Gemini API, Linux, SMB/SMTP.
+- [![Código](https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anirutsolrak/Automa-o_python)
 
 ### 📊 Sistema de Metas e IA (Cresci e Perdi)
 > Gestão de rede franqueada com análise de sentimento via **IA (GPT-mini)**. Arquitetura robusta com 44 tabelas, isolamento de ambientes via Docker e Edge Functions.
 - [![Ver Vídeo](https://img.shields.io/badge/▶_VER_VÍDEO_DEMO-FF0000?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1rLxhfNTqpiSLt8k7LnFpKuCS1hkBbgHr/view)
+
+### 🧪 Código aberto para explorar
+> Projetos com dados fictícios e demonstração no ar, para ver funcionando sem cadastro nem servidor.
+
+| Projeto | O que é | Links |
+| --- | --- | --- |
+| **Detector de Fraude (PAF)** | Encontra propostas de crédito com o mesmo endereço entre clientes diferentes. Flask + pandas no backend, a mesma análise em TypeScript na demo, testadas contra a mesma base. | [Demo](https://anirutsolrak.github.io/Projeto-PAF/) · [Código](https://github.com/anirutsolrak/Projeto-PAF) |
+| **Dashgeral** | Template de dashboards em React 19 + TypeScript: processamento de cartões, financeiro, estoque, logística e central de confirmação, com filtros globais e 260+ testes. | [Demo](https://dashgeral.vercel.app) · [Código](https://github.com/anirutsolrak/Dashgeral) |
+| **ExtraHub** | Hub de gestão de automações e relatórios em Electron, com modo demonstração. | [Demo](https://anirutsolrak.github.io/ExtraHUB/) · [Código](https://github.com/anirutsolrak/ExtraHUB) |
+| **FinAPP** | Gestão financeira familiar: planejamento, lançamentos e metas, em React + Supabase. | [Código](https://github.com/anirutsolrak/finapp) |
+| **Guia de Heróis (Watcher of Realms)** | Pipeline em Edge Function que traduz e grava os dados no Postgres, exibidos num PWA. | [Código](https://github.com/anirutsolrak/WOR_guia_de_herois) |
 
 <div align="center">
 
